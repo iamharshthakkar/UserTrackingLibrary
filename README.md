@@ -9,7 +9,7 @@ User tracking library can be used by initializing the javascript files by refere
 <script src="userTracking.js" type="text/javascript"></script>
 ```
 
-After initilation, set your `URL_TO_POST_DATA` in `userTracking.js` file where tracking data of your website will be posted.
+After initialization, set your `URL_TO_POST_DATA` in `userTracking.js` file where tracking data of your website will be posted.
 
 *Example*:
 ```js
