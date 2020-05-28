@@ -1,5 +1,5 @@
 # User Tracking Library
-User tracking library written in javascript, this library helps to track visitors on your website.
+User tracking library is written in javascript, this library helps to track visitors on your website.
 
 # How to use this library?
 User tracking library can be used by initializing the javascript files by referencing it in your project file:
